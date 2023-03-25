@@ -10,3 +10,6 @@ To use this project, please follow these steps:
 
 ### License
 This project is licensed under the MIT License.
+
+![image](https://user-images.githubusercontent.com/25286081/227711735-1c664259-e2cc-4941-b9b6-5b9bbbbb9b25.png)
+![image](https://user-images.githubusercontent.com/25286081/227711762-7b5c645c-71ea-4a17-9ef8-665bf91a5fc7.png)
