@@ -1,4 +1,4 @@
 <?php
 
-$basePath = 'http://localhost/Mobile-Brain-PHP-Asaf';
+$basePath = 'http://localhost:63342/PHP-Project-Structure';
 $appName = 'SBAdmin';
